@@ -1,13 +1,10 @@
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  right: 0;
   padding: 64px;
   background: hsl(0deg, 0%, 5%);
   color: white;
   text-align: center;
 }
-a {
-  color: white;
+
+.footer a {
+  color: inherit;
 }
